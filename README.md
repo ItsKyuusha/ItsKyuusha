@@ -1,4 +1,4 @@
-## 💻 Kyuusha - Informatics Engineering Student & Tech Enthusiast
+# 💻 Kyuusha - Informatics Engineering Student & Tech Enthusiast 💻
 
 ## 🔎 About Me [[🌐](https://kyuusha.vercel.app)]
 
