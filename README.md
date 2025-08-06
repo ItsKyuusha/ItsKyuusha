@@ -26,10 +26,10 @@ I'm an informatics engineering student with a creative mind and a strong interes
 
 ---
 
-|    **✨ Focus**   |       **🎮 Hobbies**      |       **💬 Motto**      | **🏆 Best dev companion** |
-| :--------------: | :-----------------------: | :---------------------: | :-----------------------: |
-| 100% when coding | Gaming, Coding, Traveling | "Code. Fail. Fix. Win." |           Coffee & Music          |
-                    |
+| **✨ Focus**      | **🎮 Hobbies**            | **💬 Motto**            | **🏆 Best dev companion** |
+| ---------------- | ------------------------- | ----------------------- | ------------------------- |
+| 100% when coding | Gaming, Coding, Traveling | "Code. Fail. Fix. Win." |      Coffee & Music      |
+
 ---
 
 ## 🌐 Socials:
