@@ -1,6 +1,6 @@
 # 💻 Kyuusha - Informatics Engineering Student & Tech Enthusiast 
 
-## 🔎 About Me [[🌐](https://kyuusha.vercel.app)]
+## 🔎 About Me [🔗](https://itskyuusha.github.io)
 
 I'm an informatics engineering student with a creative mind and a strong interest in problem-solving through code. I enjoy working on real-world projects involving **web**, **mobile**, and **desktop applications**.
 
